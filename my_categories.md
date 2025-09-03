@@ -1,0 +1,16 @@
+- CS
+    - AI
+        - FASTAI
+    - TOOL
+    - PS
+    - LANGUAGES
+        - C
+    - UNIX
+    - DB
+    - COMPILERS
+- BOOKS
+- JOURNAL
+    - BLOG_STORY
+    - PLAN
+    - TIL
+- OTHER

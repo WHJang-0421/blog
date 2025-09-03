@@ -6,7 +6,7 @@ draft: false
 date: "2021-07-16"
 description: "The Secret Life of Programs: Understand Computers -- Craft Better Code"
 categories:
-  - books
+  - reviews/books
 tags:
   - books
   - system programing
